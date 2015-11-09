@@ -31,7 +31,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+    <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -67,7 +67,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -80,7 +79,7 @@
       <file leaf-file-name="DebtorContract.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorContract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="46" selection-start="736" selection-end="736" vertical-scroll-proportion="-14.28" vertical-offset="0" max-vertical-offset="578">
+            <state line="21" column="46" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -89,7 +88,7 @@
       <file leaf-file-name="DebtorDbHelper.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDbHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="520" selection-end="520" vertical-scroll-proportion="0.42424244" vertical-offset="0" max-vertical-offset="952">
+            <state line="14" column="0" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="952">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,10 +99,8 @@
       <file leaf-file-name="DbHelper.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="37" selection-end="164" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="1683">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="2" column="0" selection-start="37" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1683">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,7 +108,7 @@
       <file leaf-file-name="DBUtil.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DBUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="57" selection-start="310" selection-end="319" vertical-scroll-proportion="-2.72" vertical-offset="102" max-vertical-offset="1581">
+            <state line="10" column="57" selection-start="310" selection-end="319" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
@@ -554,6 +551,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -562,120 +561,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Who owes me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Who owes me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Who owes me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Who owes me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Who owes me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whoowesme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -685,7 +572,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.project.gradle" />
+    <property name="options.lastSelected" value="android.dex.compiler" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -732,19 +619,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -770,6 +644,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -884,13 +771,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -904,14 +790,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3137255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -934,20 +821,39 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelper.java">
+    <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDbHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="0" selection-start="2849" selection-end="2849" vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="1632">
+        <state line="14" column="0" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="952">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelperClient.java">
+    <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1462">
+        <state line="2" column="0" selection-start="37" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1683">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="57" selection-start="310" selection-end="319" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="2849" selection-end="2849" vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelperClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="31" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DBUtil.java">
@@ -959,9 +865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="23" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2227">
-          <folding />
-        </state>
+        <state line="31" column="23" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2227" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/view/Add.java">
@@ -972,9 +876,7 @@
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="71" column="0" selection-start="2247" selection-end="2247" vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1309">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -985,9 +887,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2397">
-          <folding />
-        </state>
+        <state line="63" column="0" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2397" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/view/SplashScreen.java">
@@ -1002,9 +902,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2397">
-          <folding />
-        </state>
+        <state line="63" column="0" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2397" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/view/SplashScreen.java">
@@ -1019,9 +917,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2397">
-          <folding />
-        </state>
+        <state line="63" column="0" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2397" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/view/SplashScreen.java">
@@ -1075,9 +971,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="722" selection-end="722" vertical-scroll-proportion="0.8155844" vertical-offset="9" max-vertical-offset="663">
-          <folding />
-        </state>
+        <state line="19" column="5" selection-start="722" selection-end="722" vertical-scroll-proportion="0.8155844" vertical-offset="9" max-vertical-offset="663" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/res/layout-large/list.xml">
@@ -1168,21 +1062,6 @@
         <state line="42" column="35" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.6666667" vertical-offset="170" max-vertical-offset="731" />
       </provider>
     </entry>
-    <entry file="jar://E:/android-sdk/platforms/android-19/android.jar!/android/database/sqlite/SQLiteDatabase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="0" selection-start="10541" selection-end="10541" vertical-scroll-proportion="0.7258065" vertical-offset="2841" max-vertical-offset="3213" />
-      </provider>
-    </entry>
-    <entry file="jar://E:/android-sdk/platforms/android-19/android.jar!/android/database/AbstractCursor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="19" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.33246753" vertical-offset="807" max-vertical-offset="2448" />
-      </provider>
-    </entry>
-    <entry file="jar://E:/android-sdk/platforms/android-19/android.jar!/android/database/sqlite/SQLiteCursor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.7258065" vertical-offset="325" max-vertical-offset="697" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/view/Search.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="0" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.0" vertical-offset="845" max-vertical-offset="2584" />
@@ -1195,44 +1074,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelperClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="9" selection-start="1229" selection-end="1229" vertical-scroll-proportion="-9.52" vertical-offset="255" max-vertical-offset="1377">
-          <folding />
-        </state>
+        <state line="34" column="9" selection-start="1229" selection-end="1229" vertical-scroll-proportion="-9.52" vertical-offset="255" max-vertical-offset="1377" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="5" selection-start="4825" selection-end="4825" vertical-scroll-proportion="-32.64" vertical-offset="1428" max-vertical-offset="2499">
-          <folding />
-        </state>
+        <state line="141" column="5" selection-start="4825" selection-end="4825" vertical-scroll-proportion="-32.64" vertical-offset="1428" max-vertical-offset="2499" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorContract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="46" selection-start="736" selection-end="736" vertical-scroll-proportion="-14.28" vertical-offset="0" max-vertical-offset="578">
+        <state line="21" column="46" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DBUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="57" selection-start="310" selection-end="319" vertical-scroll-proportion="-2.72" vertical-offset="102" max-vertical-offset="1581">
+        <state line="10" column="57" selection-start="310" selection-end="319" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1581">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DbHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="37" selection-end="164" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="1683">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="2" column="0" selection-start="37" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1683">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoowesme/src/main/java/com/civeloo/whoowesme/data/DebtorDbHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="520" selection-end="520" vertical-scroll-proportion="0.42424244" vertical-offset="0" max-vertical-offset="952">
+        <state line="14" column="0" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="952">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
